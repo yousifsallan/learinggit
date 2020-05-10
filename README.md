@@ -1,3 +1,3 @@
 # learinggit
 
-add some cool stuff
+add some cool stuff!
